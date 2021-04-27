@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cinema Movie</string>
+    <string name="home">Home</string>
+    <string name="bioskop">Bioskop</string>
+    <string name="maps">Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+</resources>
